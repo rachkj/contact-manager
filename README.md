@@ -1,3 +1,9 @@
+# Contact Manager
+This application stores contact information that is entered by the user using the GUI. It allows you to add and delete contact information and displays each of these on the screen when done.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
